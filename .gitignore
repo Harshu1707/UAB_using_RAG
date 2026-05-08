@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+backend/.env
+frontend/.env
+backend/uab.db
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/vectorstore/*
+!backend/vectorstore/.gitkeep
+node_modules/
+dist/
+.DS_Store
